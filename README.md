@@ -13,7 +13,15 @@ Different examples are going to be presented in this project, from AutoGUI to Se
 
 Please feel free to reach out for further developpement. 
 
-**Best regards.**
+---
+### Instructions
+To check how the code works, please use the jyputer notebook. For running the script through cmd use the Generate_views.py.
+
+### Limitations
+Currently our proxies are not the best. We are struggling to find good proxies to iterate and the ones that we find are already used somewhere else or very slow.
+This part needs improvement.
+
+**Best regards.** 
 
 
 
